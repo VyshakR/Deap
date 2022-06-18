@@ -10,6 +10,7 @@ def kilometre_1(km):
     print ("The speed value of car in Miles: ", miles_1)  
 km = float (input ("Please enter the speed of car in Kilometre as a unit: "))  
 kilometre_1(km) 
+Print("HAVE A SAFE JOURNEY!!")
 
 
 # In[ ]:
